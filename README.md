@@ -239,8 +239,7 @@ Get your free Groq API key at [console.groq.com](https://console.groq.com) → A
 
 ## 📝 Blog Post
 
-Read the full build story on Medium:
-[https://medium.com/@prathameshsatyarthi1/building-an-ai-powered-stock-portfolio-analyzer-for-indian-investors-using-groq-fastapi-and-aws-fc2098862102](#)
+https://medium.com/@prathameshsatyarthi1/building-an-ai-powered-stock-portfolio-analyzer-for-indian-investors-using-groq-fastapi-and-aws-fc2098862102
 
 ---
 
